@@ -1,0 +1,8 @@
+On-screen keyboard
+=========================
+On-screen keyboard made with Tkinter
+
+
+Purpose
+-------
+The purpose of this script is to create an on-screen keyboard using Tkinter so that I can use it with Kinect. 
